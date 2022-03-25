@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+Sum_of_squares_squared.egg-info/PKG-INFO
+Sum_of_squares_squared.egg-info/SOURCES.txt
+Sum_of_squares_squared.egg-info/dependency_links.txt
+Sum_of_squares_squared.egg-info/top_level.txt
+soss/__init__.py
+soss/do_the_thing.py
